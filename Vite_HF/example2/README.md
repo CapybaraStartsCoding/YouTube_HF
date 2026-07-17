@@ -11,3 +11,7 @@
 ### 3. Launch the App
 * In the same terminal, run: `npm run dev`
 * Press **Enter** to start the local server.
+
+## You can find a full step by step guide how this app was created on Youtube channel Capybara coding
+
+https://www.youtube.com/watch?v=YN-GUSxMXys&list=PLJhbckygousZWybfow67rnLRQF7zoxQCj&index=7
